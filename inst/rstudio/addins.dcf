@@ -1,0 +1,4 @@
+Name: JSconsole
+Description: Run JavaScript.
+Binding: JSconsole
+Interactive: true
